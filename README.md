@@ -1,1 +1,1 @@
-# qcon-workshop-2023
+# Building and Productionizing LLM-Powered Applications
