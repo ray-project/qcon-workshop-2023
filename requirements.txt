@@ -1,0 +1,8 @@
+ray[data,serve]
+transformers[torch]
+accelerate
+urllib3<1.27
+openai
+pinecone-client
+sentence-transformers
+InstructorEmbedding
